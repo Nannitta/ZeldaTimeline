@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@300;400;500;600;700&display=swap');
 
+@font-face {
+    font-family: "Pretendo";
+    src: url("../assets/Fonts/Pretendo.ttf") format("truetype");
+}
+
 * {
     margin: 0;
     padding: 0;
