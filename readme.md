@@ -1,9 +1,7 @@
 
-<div style="text-align:center">
-    <img src="./assets/readme/titulo.png" alt="Logo Timeline Zelda">
-</div>
+![Logo Aplicacion](./assets/readme/titulo.png)
 
-# Timeline Zelda 
+
 ![Badge Estado](https://img.shields.io/badge/ESTADO-Completado-green)
 
 
@@ -15,7 +13,7 @@ Al abrir la web, se genera un timeline que representa de manera gráfica la cron
 [Sitio Web](https://zeldatimeline.vercel.app) 💻
 
 
-![Aplicacion de escritorio](./assets/readme/Sin%20título.png)
+![Aplicacion de escritorio](./assets/readme/deskopt_app.png)
 
 
 ## Tecnologías utilizadas
